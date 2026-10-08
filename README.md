@@ -160,3 +160,12 @@ The availability and quality of online news coverage can change over time, and m
 ## Project Purpose
 
 This project was developed as an academic cybersecurity and technology project to explore how browser extensions, web technologies, and automated evidence analysis can be used to help users evaluate online news information.
+
+## Team Members
+
+This project was developed as a group academic project by:
+
+- **Shristi Rai**
+- **Sakshi Yadav**
+- **Saniya**
+- **Saumya Rashmi**
